@@ -1,3 +1,10 @@
 // Place all the styles related to the TasksController controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.task-title {
+  a {
+    text-decoration: none;
+    color: black;
+  }
+}
